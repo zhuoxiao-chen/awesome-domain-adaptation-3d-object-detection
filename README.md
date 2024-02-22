@@ -3,14 +3,24 @@
 
 This repo is a collection of AWESOME things about domain adaptation for 3D object detection, including papers, code, etc. Feel free to star and fork.
 
+## 2024
++ Attentive Prototypes for Source-Free Unsupervised Domain Adaptive 3D Object Detection [[WACV]](https://openaccess.thecvf.com/content/WACV2024/html/Hegde_Attentive_Prototypes_for_Source-Free_Unsupervised_Domain_Adaptive_3D_Object_Detection_WACV_2024_paper.html) [[code]](https://github.com/deeptibhegde/AttentivePrototypeSFUDA)
++ SOAP: Cross-Sensor Domain Adaptation for 3D Object Detection Using Stationary Object Aggregation Pseudo-Labelling [[WACV]](https://openaccess.thecvf.com/content/WACV2024/html/Huang_SOAP_Cross-Sensor_Domain_Adaptation_for_3D_Object_Detection_Using_Stationary_WACV_2024_paper.html) 
+
 ## 2023
 + Revisiting Domain-Adaptive 3D Object Detection by Reliable, Diverse and Class-balanced Pseudo-Labeling [[ICCV]](https://openaccess.thecvf.com/content/ICCV2023/html/Chen_Revisiting_Domain-Adaptive_3D_Object_Detection_by_Reliable_Diverse_and_Class-balanced_ICCV_2023_paper.html) [[code]](https://github.com/zhuoxiao-chen/ReDB-DA-3Ddet)
 + GPA-3D: Geometry-aware Prototype Alignment for Unsupervised Domain Adaptive 3D Object Detection from Point Clouds [[ICCV]](https://openaccess.thecvf.com/content/ICCV2023/html/Chen_Revisiting_Domain-Adaptive_3D_Object_Detection_by_Reliable_Diverse_and_Class-balanced_ICCV_2023_paper.html) [[code]](https://github.com/Liz66666/GPA3D)
++ CL3D: Unsupervised Domain Adaptation for Cross-LiDAR 3D Detection [[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/25297) [[code]](https://github.com/4DVLab/CL3D)
++ Source-free Unsupervised Domain Adaptation for 3D Object Detection in Adverse Weather [[ICRA]](https://ieeexplore.ieee.org/abstract/document/10161341) [[code]](https://github.com/deeptibhegde/UncertaintyAwareMeanTeacher)
++ Adaptation Via Proxy: Building Instance-Aware Proxy for Unsupervised Domain Adaptive 3D Object Detection [[ICRA]](https://ieeexplore.ieee.org/abstract/document/10363633)
++ Viewer-Centred Surface Completion for Unsupervised Domain Adaptation in 3D Object Detection [[ICRA]](https://ieeexplore.ieee.org/abstract/document/10160707) [[code]](https://github.com/darrenjkt/SEE-VCN)
 + MS3D++: Ensemble of Experts for Multi-Source Unsupervised Domain Adaptation in 3D Object Detection [[arXiv]](https://arxiv.org/abs/2308.05988)
+
 
 ##  2022
 + LiDAR Distillation: Bridging the Beam-Induced Domain Gap for 3D Object Detection [[ECCV]](https://link.springer.com/chapter/10.1007/978-3-031-19842-7_11) [[code]](https://github.com/weiyithu/LiDAR-Distillation)
 + ST3D++: Denoised Self-training for Unsupervised Domain Adaptation on 3D Object Detection [[TPAMI]](https://ieeexplore.ieee.org/document/9927350/) [[code]](https://github.com/CVMI-Lab/ST3D)
++ Exploiting Playbacks in Unsupervised Domain Adaptation for 3D Object Detection in Self-Driving Cars [[ICRA]](https://ieeexplore.ieee.org/abstract/document/9811722)
 
 ## 2021
 + ST3D: Self-training for Unsupervised Domain Adaptation on 3D Object Detection [[CVPR]](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_ST3D_Self-Training_for_Unsupervised_Domain_Adaptation_on_3D_Object_Detection_CVPR_2021_paper.html) [[code]](https://github.com/CVMI-Lab/ST3D)
