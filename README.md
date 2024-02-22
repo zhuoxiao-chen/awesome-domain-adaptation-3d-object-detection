@@ -6,6 +6,7 @@ This repo is a collection of AWESOME things about domain adaptation for 3D objec
 ## 2023
 + Revisiting Domain-Adaptive 3D Object Detection by Reliable, Diverse and Class-balanced Pseudo-Labeling [[ICCV]](https://openaccess.thecvf.com/content/ICCV2023/html/Chen_Revisiting_Domain-Adaptive_3D_Object_Detection_by_Reliable_Diverse_and_Class-balanced_ICCV_2023_paper.html) [[code]](https://github.com/zhuoxiao-chen/ReDB-DA-3Ddet)
 + GPA-3D: Geometry-aware Prototype Alignment for Unsupervised Domain Adaptive 3D Object Detection from Point Clouds [[ICCV]](https://openaccess.thecvf.com/content/ICCV2023/html/Chen_Revisiting_Domain-Adaptive_3D_Object_Detection_by_Reliable_Diverse_and_Class-balanced_ICCV_2023_paper.html) [[code]](https://github.com/Liz66666/GPA3D)
++ MS3D++: Ensemble of Experts for Multi-Source Unsupervised Domain Adaptation in 3D Object Detection [[arXiv]](https://arxiv.org/abs/2308.05988)
 
 ##  2022
 + LiDAR Distillation: Bridging the Beam-Induced Domain Gap for 3D Object Detection [[ECCV]](https://link.springer.com/chapter/10.1007/978-3-031-19842-7_11) [[code]](https://github.com/weiyithu/LiDAR-Distillation)
