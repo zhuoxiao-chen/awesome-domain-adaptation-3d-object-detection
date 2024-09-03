@@ -1,7 +1,7 @@
 # awesome-domain-adaptation-3d-object-detection
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT) 
 
-This repo is a collection of AWESOME things about unsupervised domain adaptation (UDA), online test-time adaptation (TTA) for 3D object detection, including papers, code, etc. Feel free to star and fork.
+This repo is a collection of AWESOME things about unsupervised domain adaptation (UDA), online test-time adaptation (TTA) for 3D object detection, including papers, code, etc. Feel free to star and fork. This repo mainly focuses on AI/CV/ML confernces and journals. 
 
 ## 2024
 + DPO: Dual-Perturbation Optimization for Test-time Adaptation in 3D Object Detection [[MM]](https://openreview.net/forum?id=eoaw2A8X4J) [[code]](https://github.com/Jo-wang/DPO)
