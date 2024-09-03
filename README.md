@@ -7,7 +7,7 @@ This repo is a collection of AWESOME things about domain adaptation for 3D objec
 + Pseudo Label Refinery for Unsupervised Domain Adaptation on Cross-dataset 3D Object Detection [[CVPR]](https://arxiv.org/abs/2404.19384) [[code]](https://github.com/Zhanwei-Z/PERE)
 + Attentive Prototypes for Source-Free Unsupervised Domain Adaptive 3D Object Detection [[WACV]](https://openaccess.thecvf.com/content/WACV2024/html/Hegde_Attentive_Prototypes_for_Source-Free_Unsupervised_Domain_Adaptive_3D_Object_Detection_WACV_2024_paper.html) [[code]](https://github.com/deeptibhegde/AttentivePrototypeSFUDA)
 + SOAP: Cross-Sensor Domain Adaptation for 3D Object Detection Using Stationary Object Aggregation Pseudo-Labelling [[WACV]](https://openaccess.thecvf.com/content/WACV2024/html/Huang_SOAP_Cross-Sensor_Domain_Adaptation_for_3D_Object_Detection_Using_Stationary_WACV_2024_paper.html)
-+ An Empirical Study of the Generalization Ability of Lidar 3D Object Detectors to Unseen Domains [[CVPR]]([https://arxiv.org/abs/2402.17562](https://openaccess.thecvf.com/content/CVPR2024/html/Eskandar_An_Empirical_Study_of_the_Generalization_Ability_of_Lidar_3D_CVPR_2024_paper.html))
++ An Empirical Study of the Generalization Ability of Lidar 3D Object Detectors to Unseen Domains [[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/html/Eskandar_An_Empirical_Study_of_the_Generalization_Ability_of_Lidar_3D_CVPR_2024_paper.html)
 
 ## 2023
 + Revisiting Domain-Adaptive 3D Object Detection by Reliable, Diverse and Class-balanced Pseudo-Labeling [[ICCV]](https://openaccess.thecvf.com/content/ICCV2023/html/Chen_Revisiting_Domain-Adaptive_3D_Object_Detection_by_Reliable_Diverse_and_Class-balanced_ICCV_2023_paper.html) [[code]](https://github.com/zhuoxiao-chen/ReDB-DA-3Ddet)
