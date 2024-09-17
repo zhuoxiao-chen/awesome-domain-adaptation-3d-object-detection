@@ -5,6 +5,7 @@ This repo is a collection of AWESOME things about unsupervised domain adaptation
 
 ## 2024
 + DPO: Dual-Perturbation Optimization for Test-time Adaptation in 3D Object Detection [[MM]](https://openreview.net/forum?id=eoaw2A8X4J) [[code]](https://github.com/Jo-wang/DPO)
++ CMT: Co-training Mean-Teacher for Unsupervised Domain Adaptation on 3D Object Detection [[MM]](https://openreview.net/forum?id=WhCEsBtJBG)
 + MOS: Model Synergy for Test-Time Adaptation on LiDAR-Based 3D Object Detection [[arXiv]](https://arxiv.org/abs/2406.14878)
 + Pseudo Label Refinery for Unsupervised Domain Adaptation on Cross-dataset 3D Object Detection [[CVPR]](https://arxiv.org/abs/2404.19384) [[code]](https://github.com/Zhanwei-Z/PERE)
 + Attentive Prototypes for Source-Free Unsupervised Domain Adaptive 3D Object Detection [[WACV]](https://openaccess.thecvf.com/content/WACV2024/html/Hegde_Attentive_Prototypes_for_Source-Free_Unsupervised_Domain_Adaptive_3D_Object_Detection_WACV_2024_paper.html) [[code]](https://github.com/deeptibhegde/AttentivePrototypeSFUDA)
