@@ -1,12 +1,17 @@
 # awesome-domain-adaptation-3d-object-detection
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT) 
 
-This repo is a collection of AWESOME things about unsupervised domain adaptation (UDA), online test-time adaptation (TTA) for 3D object detection, including papers, code, etc. Feel free to star and fork. This repo mainly focuses on AI/CV/ML confernces and journals. 
+This repo is a collection of AWESOME things about unsupervised domain adaptation (**UDA**), online test-time adaptation (**TTA**), and domain generalization (**DG**) for 3D object detection, including papers, code, etc. Feel free to star and fork. This repo mainly focuses on **AI/CV/ML** conferences and journals. 
+
+## 2025
++ MOS: Model Synergy for Test-Time Adaptation on LiDAR-Based 3D Object Detection [[ICLR]](https://openreview.net/forum?id=Y6aHdDNQYD)
 
 ## 2024
 + DPO: Dual-Perturbation Optimization for Test-time Adaptation in 3D Object Detection [[MM]](https://openreview.net/forum?id=eoaw2A8X4J) [[code]](https://github.com/Jo-wang/DPO)
 + CMT: Co-training Mean-Teacher for Unsupervised Domain Adaptation on 3D Object Detection [[MM]](https://openreview.net/forum?id=WhCEsBtJBG)
-+ MOS: Model Synergy for Test-Time Adaptation on LiDAR-Based 3D Object Detection [[arXiv]](https://arxiv.org/abs/2406.14878)
++ Sunshine to Rainstorm: Cross-Weather Knowledge Distillation for Robust 3D Object Detection [[AAAI]](https://arxiv.org/abs/2406.14878) [[code]](https://github.com/ylwhxht/SRKD-DRET)
++ Reg-TTA3D: Better Regression Makes Better Test-Time Adaptive 3D Object Detection [[ECCV]](https://link.springer.com/chapter/10.1007/978-3-031-72775-7_12)
++ Domain Generalization of 3D Object Detection by Density-Resampling [[ECCV]](https://link.springer.com/chapter/10.1007/978-3-031-73039-9_26) [[code]](https://github.com/xingyu-group/3D-Density-Resampling-SDG)
 + Pseudo Label Refinery for Unsupervised Domain Adaptation on Cross-dataset 3D Object Detection [[CVPR]](https://arxiv.org/abs/2404.19384) [[code]](https://github.com/Zhanwei-Z/PERE)
 + Attentive Prototypes for Source-Free Unsupervised Domain Adaptive 3D Object Detection [[WACV]](https://openaccess.thecvf.com/content/WACV2024/html/Hegde_Attentive_Prototypes_for_Source-Free_Unsupervised_Domain_Adaptive_3D_Object_Detection_WACV_2024_paper.html) [[code]](https://github.com/deeptibhegde/AttentivePrototypeSFUDA)
 + SOAP: Cross-Sensor Domain Adaptation for 3D Object Detection Using Stationary Object Aggregation Pseudo-Labelling [[WACV]](https://openaccess.thecvf.com/content/WACV2024/html/Huang_SOAP_Cross-Sensor_Domain_Adaptation_for_3D_Object_Detection_Using_Stationary_WACV_2024_paper.html)
