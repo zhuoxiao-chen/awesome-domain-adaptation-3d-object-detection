@@ -5,6 +5,7 @@ This repo is a collection of AWESOME things about unsupervised domain adaptation
 
 ## 2025
 + MOS: Model Synergy for Test-Time Adaptation on LiDAR-Based 3D Object Detection [[ICLR]](https://openreview.net/forum?id=Y6aHdDNQYD)
++ Unsupervised 3D Object Detection Domain Adaptation based on Pseudo-label Variance Regularization [[TCSVT]](https://ieeexplore.ieee.org/abstract/document/10870386)
 
 ## 2024
 + DPO: Dual-Perturbation Optimization for Test-time Adaptation in 3D Object Detection [[MM]](https://openreview.net/forum?id=eoaw2A8X4J) [[code]](https://github.com/Jo-wang/DPO)
